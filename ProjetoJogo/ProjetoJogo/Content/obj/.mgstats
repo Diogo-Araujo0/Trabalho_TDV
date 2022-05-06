@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/Fonts/TextFont.spritefont","C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/bin/Fonts/TextFont.xnb","FontDescriptionProcessor","SpriteFontContent",2013,70690,0,1959302
+"C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/Sprites/player.png","C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/bin/Sprites/player.xnb","TextureProcessor","Texture2DContent",159,40085,0,0105484
+"C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/Textures/Map.jpg","C:/MonoGame/ProjetoJogo/ProjetoJogo/Content/bin/Textures/Map.xnb","TextureProcessor","Texture2DContent",215567,3240085,0,0883797
